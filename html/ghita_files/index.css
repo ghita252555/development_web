@@ -1,0 +1,64 @@
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px -3px;
+}
+
+h1{
+    color: brown;
+    width: 10px;
+    font-weight: 100;
+}
+
+h6{
+    color: brown;
+    width: 12px;
+    font-weight: 100;
+}
+
+h3{
+    color:bisque;
+    width: 11px;
+    font-weight: 100;
+}
+@media screen and (max-width:640px) {
+    img{
+    width: 150px;
+    height: 150px; 
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px 5px;
+    }
+    .titrel
+    {
+      color:red;
+      width: 10px;
+      font-weight: 100;
+    }   
+    .titre2
+    {
+    color:blue;
+    width: 12px; 
+    font-weight: 200;  
+    }
+   .titre3{
+     color: rgb(208, 243, 7) ;
+     width: 11px;
+    font-weight: 700; 
+    }
+}
+       
+
+.titre1{
+  color:blue
+}
+
+.titre2
+{
+    color:brown
+}
+
+.titre3
+{
+    color:blueviolet
+  }
